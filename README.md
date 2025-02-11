@@ -1,4 +1,4 @@
-# GErenciador de tarefas
+# Gerenciador de tarefas
 
 🛠 Tecnologias utilizadas
 React + Vite ⚛️  
