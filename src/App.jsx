@@ -15,7 +15,7 @@ function App() {
   useEffect(() => {
     async function fetchTasks() {
       const response = await fetch(
-        "https://jsonplaceholder.typicode.com/todos?_limit=10",
+        "https://jsonplaceholder.typicode.com/todos?_limit=5",
         {
           method: "GET",
         }
